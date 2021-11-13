@@ -8,7 +8,6 @@ env:
   packageFileName: windows.msi
   packageId: MyPackageIdInWinget
   
-
 jobs:
   
   winget:
